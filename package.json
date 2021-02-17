@@ -1,0 +1,28 @@
+{
+  "name": "homebridge-nature-remo-cloud-qrio",
+  "version": "0.1.0",
+  "description": "Plugin for using Nuki devices in homebridge.",
+  "description": "Homebridge Plug-in for Qrio Managed by Nature Remo",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "kgws",
+  "keywords": [
+    "homebridge-plugin",
+    "homebridge",
+    "homebridge-nature-remo-cloud-qrio",
+    "qrio"
+  ],
+  "dependencies": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kgws/homebridge-nature-remo-cloud-qrio.git"
+  },
+  "bugs": {
+    "url": "http://github.com/kgws/homebridge-nature-remo-cloud-qrio/issues"
+  },
+  "engines": {
+    "node": ">=4.3.2",
+    "homebridge": ">=0.2.0"
+  }
+}
